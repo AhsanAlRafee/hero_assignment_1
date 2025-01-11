@@ -114,9 +114,19 @@ padding: 50px 40px 50px 50px;
     border: none;
 }
 .yunus{
+    padding:15px;
     background-image: url(../assets/quote-bg.png);
-   
+    background-repeat: no-repeat;
+   background-color: #f4f2f2;
+   margin: 30px 0 40px 0;
+   border-radius: 10px;
 }
 .yunus p{
     color: #606060;
+}
+.option1{
+    display: flex;
+}
+.option1 p{
+    justify-content: space-around;
 }
