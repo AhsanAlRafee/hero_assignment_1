@@ -1,0 +1,122 @@
+.btn{
+    
+color: rgb(2, 114, 23);
+font-size: 18px;
+border-radius: 5px ;
+border-color: rgb(2, 100, 2) ;
+background-color: aliceblue;
+padding: 5px;
+}
+nav{
+    display:flex;
+    justify-content: space-between;
+    margin: 0 150px 40px 150px;
+    align-items: center;
+}
+nav  h3{
+    font-size: 24px;
+}
+nav ul li{
+    list-style: none;
+}
+.ban{
+    background-color:#C6E4D6;
+    display:flex;
+    justify-content: space-between;
+    margin: 0 150px 40px 150px;
+    border-radius: 20px;
+}
+.ban1{
+align-items: center;
+padding: 50px 40px 50px 50px;
+}
+.ban1  h4{
+    color: #5c5959bb;
+    font-size: 20px;
+    
+}
+.ban1 ul{
+    list-style: none;
+}
+.ban1 h1{
+    font-size: 50px;
+}
+.btn2{
+  
+  margin: 0;
+  background-color: rgb(4, 119, 81);
+  color: white;
+  border-radius: 5px;
+  padding: 10px;
+  border-color: none;
+  font-size: 14px;
+}
+.ban2{
+    margin: 70px 90px 70px 60px;
+}
+.pill{
+    margin: 40px 150px 40px 150px;
+}
+.pill2{
+    display: flex;
+}
+.innovation{
+    padding: 26px;
+    background-color:#f5f2f2;
+    border-radius: 15px;
+    margin: 10px;
+   
+}
+.innovation h5{
+    font-size: 18px;
+}
+.innovation p{
+    color: #6c6a6a;
+}
+.version{
+    margin: 20px 150px 20px 150px;
+
+}
+.version1 p{
+    color: #6c6a6a;
+}
+.digital{
+    background-color: #d2dff6;
+}
+.digital button{
+    border-radius: 5px;
+    font-size: 16px;
+    padding: 8px;
+    color: white;
+    background-color: #316dd4;
+    border: none;
+}
+.green{
+    background-color: rgb(203, 240, 203);
+}
+.green button{
+    border-radius: 5px;
+    font-size: 16px;
+    padding: 8px;
+    color: white;
+    background-color: rgb(65, 185, 65);
+    border: none;
+}
+.modern{
+    background-color: rgb(254, 230, 199);
+}
+.modern button{
+    border-radius: 5px;
+    font-size: 16px;
+    padding: 8px;
+    color: white;
+    background-color: rgb(223, 153, 61) ;
+    border: none;
+}
+.yunus{
+    background-image: url(../assets/quote-bg.png);
+   
+}
+.yunus p{
+    color: #606060;
+}
