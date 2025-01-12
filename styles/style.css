@@ -124,9 +124,67 @@ padding: 50px 40px 50px 50px;
 .yunus p{
     color: #606060;
 }
-.option1{
+.otion{
+    background-color: #949393;
+}
+.op1{
+    display: flex;
+    justify-content: space-between;
+    font-size: 26px;
+    padding: 20px 40px 20px 20px;
+    background-color: rgb(203, 240, 203) ;
+   
+}
+.op2{
+    display: flex;
+    justify-content: space-between;
+    font-size: 26px;
+    padding: 20px 40px 20px 20px;
+    
+}
+.op2 select{
+    background-color: rgb(188, 252, 188);
+    font-size: 25px;
+    padding: 8px;
+}
+.op3{
+    border: 1px solid black;
+}.
+.satelite{
     display: flex;
 }
-.option1 p{
+.sate{
+    display: flex;
+    justify-content: space-between;
+    background-color: #e0dfdf;
+   border-radius: 8px;
+   margin: 10px 10px 20px 10px;
+}
+.sate1{
+    padding: 50px;
+}
+.sate2{
+    padding: 50px;
+}
+.sate2 button{
+    font-size: 16px;
+    color: white;
+    background-color: rgb(21, 118, 21);
+    border-radius: 5px;
+    padding: 7px;
+}
+.takaa{
+    margin: 10px 70px 20px 70px;
+}
+.taka{
+    display: flex;
     justify-content: space-around;
+    
+}
+.taka1 button{
+    font-size: 50px;
+    justify-content: space-between;
+}
+.donete{
+    text-align: center;
 }
