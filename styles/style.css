@@ -198,13 +198,15 @@ padding: 50px 40px 50px 50px;
     
 }
 
+
 .taka1 button{
-    font-size: 50px;
+    font-size: 30px;
     justify-content: space-between;
     border-radius: 10px;
     background-color: white;
     border: none;
     padding: 25px;
+    margin: 0 10px 0 0;
 }
 .taka1 button:hover{
     background: rgb(171, 230, 171);
@@ -226,7 +228,7 @@ padding: 50px 40px 50px 50px;
 }
 .amo{
     font-size: 28px;
-    padding: 10px 370px;
+    padding: 10px 120px;
     border-radius: 10px;
     background-color: white;
     border: none;
