@@ -194,11 +194,10 @@ padding: 50px 40px 50px 50px;
 .taka{
     display: flex;
     justify-content: space-around;
+    padding: 20px;
     
 }
-.taka1{
-    padding: 25px;
-}
+
 .taka1 button{
     font-size: 50px;
     justify-content: space-between;
