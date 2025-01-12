@@ -1,3 +1,8 @@
+.main{
+    background-color: #f3efef;
+    padding: 0 0 10px 0;
+    
+}
 .btn{
     
 color: rgb(2, 114, 23);
@@ -68,7 +73,7 @@ padding: 50px 40px 50px 50px;
 }
 .innovation{
     padding: 26px;
-    background-color:#f5f2f2;
+    background-color:white;
     border-radius: 15px;
     margin: 10px;
    
@@ -126,7 +131,7 @@ padding: 50px 40px 50px 50px;
     padding:15px;
     background-image: url(../assets/quote-bg.png);
     background-repeat: no-repeat;
-   background-color: #f4f2f2;
+   background-color: white;
    margin: 30px 0 40px 0;
    border-radius: 10px;
 }
@@ -158,6 +163,7 @@ padding: 50px 40px 50px 50px;
 }
 .op3{
     border: 1px solid black;
+    background-color: white;
 }.
 .satelite{
     display: flex;
@@ -165,8 +171,8 @@ padding: 50px 40px 50px 50px;
 .sate{
     display: flex;
     justify-content: space-between;
-    background-color: #e0dfdf;
-   border-radius: 8px;
+    background-color: white;
+   border-radius: 20px;
    margin: 10px 10px 20px 10px;
 }
 .sate1{
@@ -183,7 +189,7 @@ padding: 50px 40px 50px 50px;
     padding: 7px;
 }
 .takaa{
-    margin: 10px 70px 20px 70px;
+    margin: 50px 70px 20px 70px;
 }
 .taka{
     display: flex;
@@ -194,6 +200,9 @@ padding: 50px 40px 50px 50px;
     font-size: 50px;
     justify-content: space-between;
     border-radius: 10px;
+    background-color: white;
+    border: none;
+    padding: 25px;
 }
 .taka1 button:hover{
     background: rgb(171, 230, 171);
@@ -217,6 +226,8 @@ padding: 50px 40px 50px 50px;
     font-size: 28px;
     padding: 10px 370px;
     border-radius: 10px;
+    background-color: white;
+    border: none;
 }
 .amo:hover{
     background-color: rgb(171, 230, 171) ;
@@ -227,4 +238,30 @@ padding: 50px 40px 50px 50px;
 }
 .sub{
     text-align: center;
+    background-color: rgb(223, 240, 223);
+    padding: 40px 200px;
+    margin: 100px 0;
+    border-radius: 20px;
+}
+.input{
+    font-size: 28px;
+    padding: 10px;
+}
+.final{
+    text-align: center;
+    margin: 0 0 50px 0;
+}
+ .ul li{
+    list-style: none;
+   padding: 8px;
+   
+   
+}
+.ul{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+.color{
+    color: #606060 ;
 }
