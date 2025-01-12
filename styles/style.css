@@ -7,6 +7,9 @@ border-color: rgb(2, 100, 2) ;
 background-color: aliceblue;
 padding: 5px;
 }
+.btn:hover{
+    background-color: #a9f3d0;
+}
 nav{
     display:flex;
     justify-content: space-between;
@@ -51,6 +54,9 @@ padding: 50px 40px 50px 50px;
   border-color: none;
   font-size: 14px;
 }
+.btn2:hover{
+    background-color: #16271f;
+}
 .ban2{
     margin: 70px 90px 70px 60px;
 }
@@ -90,6 +96,9 @@ padding: 50px 40px 50px 50px;
     color: white;
     background-color: #316dd4;
     border: none;
+}
+.dbtn:hover{
+    background-color: #c48080;
 }
 .green{
     background-color: rgb(203, 240, 203);
@@ -184,7 +193,38 @@ padding: 50px 40px 50px 50px;
 .taka1 button{
     font-size: 50px;
     justify-content: space-between;
+    border-radius: 10px;
+}
+.taka1 button:hover{
+    background: rgb(171, 230, 171);
 }
 .donete{
+    text-align: center;
+}
+.nbtn{
+    font-size: 16px;
+    color: white;
+    background-color: rgb(21, 118, 21);
+    border-radius: 5px;
+    padding: 7px;
+    
+}
+.amount{
+    text-align: center;
+    margin: 20px 0;
+}
+.amo{
+    font-size: 28px;
+    padding: 10px 370px;
+    border-radius: 10px;
+}
+.amo:hover{
+    background-color: rgb(171, 230, 171) ;
+}
+.nbtn{
+    margin: 15px 0;
+    font-size: 28px;
+}
+.sub{
     text-align: center;
 }
